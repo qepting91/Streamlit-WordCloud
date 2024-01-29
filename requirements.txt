@@ -1,4 +1,0 @@
-wordcloud
-matplotlib
-wikipedia
-streamlit
